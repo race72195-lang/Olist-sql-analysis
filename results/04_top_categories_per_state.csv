@@ -1,0 +1,16 @@
+state,rank_in_state,category,revenue,share_of_state_pct
+SP,1,bed_bath_table,472238.0,9.3
+SP,2,health_beauty,453916.0,9.0
+SP,3,watches_gifts,421547.0,8.3
+RJ,1,watches_gifts,174895.0,9.9
+RJ,2,bed_bath_table,144252.0,8.2
+RJ,3,health_beauty,140236.0,8.0
+MG,1,health_beauty,154324.0,9.9
+MG,2,bed_bath_table,128760.0,8.3
+MG,3,watches_gifts,121622.0,7.8
+RS,1,bed_bath_table,60041.0,8.2
+RS,2,furniture_decor,53775.0,7.4
+RS,3,computers_accessories,52380.0,7.2
+PR,1,sports_leisure,57653.0,8.7
+PR,2,watches_gifts,57287.0,8.6
+PR,3,health_beauty,53730.0,8.1

@@ -1,0 +1,7 @@
+- Revenue grew from R$112k in 2017-01 to R$839k in 2018-08.
+- 'health_beauty' is the #1 category (9.3% of revenue); the top 3 categories bring 25.9%.
+- Average review score is 4.2 for on-time orders and 1.73 for orders more than 7 days late (78.3% of them get 1-2 stars).
+- Slowest state: AM (26.4 days); fastest: SP (8.8 days).
+- 97.0% of customers bought only once; 3.0% came back.
+- The top 10% of sellers generate 67% of revenue.
+- 'credit_card' is the main payment method (78.5% of payment value).

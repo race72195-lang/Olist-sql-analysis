@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.vscode/
+
+# Data is downloaded from Kaggle and rebuilt locally
+data/
+olist.db
